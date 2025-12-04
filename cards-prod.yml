@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank CARDS related prod APIs"
+  contactDetails:
+    name: "Piotr Fatner PROD"
+    email: "pfatner@eazybank.com"
+  onCallSupport:
+    - (365) 888-6780
+    - (048) 999-6780

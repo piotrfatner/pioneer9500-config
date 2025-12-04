@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank CARDS related qa APIs"
+  contactDetails:
+    name: "Reine Ashwaganda QA"
+    email: "ashwaganda@eazybank.com"
+  onCallSupport:
+    - (365) 888-9999
+    - (048) 999-9999
