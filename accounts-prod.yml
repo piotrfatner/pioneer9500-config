@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Reine Ashwaganda"
-    email: "ashwaganda@eazybank.com"
+    email: "{cipher}90546ab0637692fde48508c2513719bfe2c30510ceb4f02cbdb95c3cb2fd0d3810ae25df85ca06f18a42ac6b9743700a"
   onCallSupport:
     - (365) 888-9999
     - (048) 999-9999
