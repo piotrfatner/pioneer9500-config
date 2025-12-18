@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Reine Ashwaganda"
     email: "{cipher}90546ab0637692fde48508c2513719bfe2c30510ceb4f02cbdb95c3cb2fd0d3810ae25df85ca06f18a42ac6b9743700a"
