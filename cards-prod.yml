@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank CARDS related webhook APIs"
+  message: "Welcome to EazyBank CARDS related webhook 2 APIs"
   contactDetails:
     name: "Piotr Fatner PROD"
     email: "pfatner@eazybank.com"
